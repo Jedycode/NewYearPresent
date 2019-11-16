@@ -1,0 +1,11 @@
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\bin\Debug\netcoreapp3.0\NewYearPresent.exe
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\bin\Debug\netcoreapp3.0\NewYearPresent.deps.json
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\bin\Debug\netcoreapp3.0\NewYearPresent.runtimeconfig.json
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\bin\Debug\netcoreapp3.0\NewYearPresent.runtimeconfig.dev.json
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\bin\Debug\netcoreapp3.0\NewYearPresent.dll
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\bin\Debug\netcoreapp3.0\NewYearPresent.pdb
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.csprojAssemblyReference.cache
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.AssemblyInfoInputs.cache
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.AssemblyInfo.cs
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.dll
+H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.pdb
