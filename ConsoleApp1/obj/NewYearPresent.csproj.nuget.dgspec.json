@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Labs\\Courses\\New Year Present Full of Sweets\\NewYearPresent\\ConsoleApp1\\NewYearPresent.csproj": {}
+    "C:\\Users\\Dalver\\Documents\\GitHub\\NewYearPresent\\ConsoleApp1\\NewYearPresent.csproj": {}
   },
   "projects": {
-    "H:\\Labs\\Courses\\New Year Present Full of Sweets\\NewYearPresent\\ConsoleApp1\\NewYearPresent.csproj": {
+    "C:\\Users\\Dalver\\Documents\\GitHub\\NewYearPresent\\ConsoleApp1\\NewYearPresent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Labs\\Courses\\New Year Present Full of Sweets\\NewYearPresent\\ConsoleApp1\\NewYearPresent.csproj",
+        "projectUniqueName": "C:\\Users\\Dalver\\Documents\\GitHub\\NewYearPresent\\ConsoleApp1\\NewYearPresent.csproj",
         "projectName": "NewYearPresent",
-        "projectPath": "H:\\Labs\\Courses\\New Year Present Full of Sweets\\NewYearPresent\\ConsoleApp1\\NewYearPresent.csproj",
+        "projectPath": "C:\\Users\\Dalver\\Documents\\GitHub\\NewYearPresent\\ConsoleApp1\\NewYearPresent.csproj",
         "packagesPath": "C:\\Users\\Dalver\\.nuget\\packages\\",
-        "outputPath": "H:\\Labs\\Courses\\New Year Present Full of Sweets\\NewYearPresent\\ConsoleApp1\\obj\\",
+        "outputPath": "C:\\Users\\Dalver\\Documents\\GitHub\\NewYearPresent\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

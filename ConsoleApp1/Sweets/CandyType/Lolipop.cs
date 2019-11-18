@@ -6,8 +6,8 @@ namespace NewYearPresent.Sweets.CandyType
 {
     class Lolipop: Candy
     {
-        public Lolipop(string name, double weight, double proteins, double carbohydrates, double fat, double sugarPercentage)
-            : base(name, weight, proteins, carbohydrates, fat, sugarPercentage)
+        public Lolipop(string name, double weight, NutritionalValue nutritionalValue, double sugarPercentage)
+            : base(name, weight, nutritionalValue, sugarPercentage)
         {
 
         }

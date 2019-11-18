@@ -9,3 +9,8 @@ H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\D
 H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.AssemblyInfo.cs
 H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.dll
 H:\Labs\Courses\New Year Present Full of Sweets\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.pdb
+C:\Users\Dalver\Documents\GitHub\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.csprojAssemblyReference.cache
+C:\Users\Dalver\Documents\GitHub\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.AssemblyInfoInputs.cache
+C:\Users\Dalver\Documents\GitHub\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.AssemblyInfo.cs
+C:\Users\Dalver\Documents\GitHub\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.dll
+C:\Users\Dalver\Documents\GitHub\NewYearPresent\ConsoleApp1\obj\Debug\netcoreapp3.0\NewYearPresent.pdb

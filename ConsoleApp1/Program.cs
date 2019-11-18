@@ -20,7 +20,7 @@ namespace NewYearPresent
             switch (choice)
             {
                 case 1:
-                    foreach(object candy in present)
+                    foreach(var candy in present)
                     {
                         Console.WriteLine(candy);
                     }

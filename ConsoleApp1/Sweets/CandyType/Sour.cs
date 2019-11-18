@@ -7,8 +7,8 @@ namespace NewYearPresent.Sweets.CandyType
 {
     class Sour: Candy
     {
-        public Sour(string name, double weight, double proteins, double carbohydrates, double fat, double sugarPercentage)
-            : base(name, weight, proteins, carbohydrates, fat, sugarPercentage)
+        public Sour(string name, double weight, NutritionalValue nutritionalValue, double sugarPercentage)
+            : base(name, weight, nutritionalValue, sugarPercentage)
         {
 
         }
